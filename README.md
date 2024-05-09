@@ -7,7 +7,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -24,14 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Design/Frontend Mentor-Blog preview card-desktop.png)
+![](./Design/desktop.png)
 
-![](./Design/Frontend Mentor Blog preview card.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![](./Design/mobile.png)
 
 ## My process
 
@@ -66,5 +60,7 @@ img{
 - [Conquering ressponsive layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) - This is an amazing course by Kevin Powell it helped me greatly to level up my responsive design concepts.
 
 ## Author
+-Opudo Prince
+
 - Frontend Mentor - [@codecrasher](https://www.frontendmentor.io/profile/codecrasher)
 - Twitter - [@opudoprince](https://www.twitter.com/opudoprince)
